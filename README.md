@@ -1,4 +1,4 @@
-## Hello Guys, Im <strong>Rafael Prado!</strong>
+## Hello Guys, I'm <strong>Rafael Prado!</strong>
 
 🔭 Brazilian Technology enthusiast in general, mainly in ReactJS, React Native and NodeJS <strong>#NeverStopLearning</strong>
 
