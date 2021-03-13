@@ -1,6 +1,6 @@
-## Hello Guys, I'm <strong>Rafael Prado!</strong>
+## Hello everyone, I'm <strong>Rafael Prado!</strong>
 
-🔭 Brazilian Fullstack Developer, Technology enthusiast in general, mainly in ReactJS, React Native and NodeJS <strong>#NeverStopLearning</strong>
+🔭 Brazilian Software Developer, Technology enthusiast in general, mainly in ReactJS, React Native and NodeJS <strong>#NeverStopLearning</strong>
 
 [![Linkedin: Rafael Prado](https://img.shields.io/badge/-RafaelPrado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rafael-prado-8a40b6132/)
 [![Gmail Badge](https://img.shields.io/badge/-santiagorafael409@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:santiagorafael409@gmail.com)
